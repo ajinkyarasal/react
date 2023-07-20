@@ -1,0 +1,9 @@
+.blog-list {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .blog-list__fallback {
+    color: white;
+    text-align: center;
+  }
